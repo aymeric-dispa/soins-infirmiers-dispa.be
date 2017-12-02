@@ -1,0 +1,21 @@
+{
+  "name": "Soins-Infirmiers-Dispa",
+  "version": "1.0.0",
+  "description": "Soins Infirmiers Dispa - Soins à domicile à Philippeville et Florennes",
+  "author": "Aymeric Dispa",
+  "engines": {
+    "node": "6.10.3",
+    "npm": "3.10.10"
+  },
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  },
+  "dependencies": {
+    "connect": "^3.6.5",
+    "connect-history-api-fallback": "^1.4.0",
+	"body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mailgun-js": "^0.13.1"
+  }
+}
