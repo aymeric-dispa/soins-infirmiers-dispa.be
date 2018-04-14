@@ -29,7 +29,7 @@
           </form>
           <div v-show="formSubmitted" class="confirmation-message">
             <div v-show="messageFailed" class="alert alert-danger">
-              Le message n'a pas pu être envoyé, veuillez me contacter par téléphone au <strong>0497/42.88.05</strong>
+              Le message n'a pas pu être envoyé.
             </div>
             <div v-show="!messageFailed" class="alert alert-success">
               Message envoyé avec succès !
@@ -40,7 +40,7 @@
           <div>
             <br/>
             <img src="../assets/phone.svg" class="icon">
-            <h4><p id="phone-number"><Strong>0497/42.88.05</Strong></p></h4>
+            <h4><p id="phone-number"><Strong>0496/95.55.59</Strong></p></h4>
           </div>
           <br/>
           <img src="../assets/house.svg" class="icon" id="house-icon">

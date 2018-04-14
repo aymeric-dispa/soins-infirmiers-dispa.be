@@ -22,7 +22,7 @@
               </li>
 
               <li>
-                <p> 0497/42.88.05<br/>
+                <p>
                   quentin.dispa@gmail.com</p>
               </li>
 

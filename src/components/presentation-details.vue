@@ -20,8 +20,11 @@
 
         </div>
       </div>
+      <div class="alert alert-danger">
+        <strong>Votre infrmier n'exerce plus !</strong>
+      </div>
     </div>
-    <br/><br/>
+
     <info-table></info-table>
 
   </div>
